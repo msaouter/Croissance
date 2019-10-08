@@ -5,7 +5,9 @@ using UnityEngine;
 public class CoralGenerator : MonoBehaviour
 {
     Transform coralRoot;
-    public GameObject coralPrefab;
+
+    public GameObject coralIPrefab;
+    public GameObject coralYPrefab;
 
     int height;
 
@@ -28,16 +30,27 @@ public class CoralGenerator : MonoBehaviour
 
     void GenerateChilds(GameObject currentCoral, int currentHeight)
     {
-        if (currentHeight < 1) {
-            GameObject childA = Instantiate(coralPrefab, currentCoral.transform);
+        if (currentHeight == 0) {
+            GameObject child = Instantiate(coralIPrefab, currentCoral.transform);
+            child.AddComponent<Branch>();
+            currentCoral.GetComponent<Branch>().AddChild(child);
+
+        }
+        if (currentHeight > 1) {
+            GameObject childY = Instantiate(coralYPrefab, currentCoral.transform);
+            childY.AddComponent<Branch>();
+            currentCoral.GetComponent<Branch>().AddChild(childY);
+
+            GameObject childA = Instantiate(coralIPrefab, childY.transform);
             childA.AddComponent<Branch>();
-            currentCoral.GetComponent<Branch>().AddChild(childA);
+            childY.GetComponent<Branch>().AddChild(childA);
 
-            GameObject childB = Instantiate(coralPrefab, currentCoral.transform);
+            GameObject childB = Instantiate(coralIPrefab, childY.transform);
             childB.AddComponent<Branch>();
-            currentCoral.GetComponent<Branch>().AddChild(childB);
+            childY.GetComponent<Branch>().AddChild(childB);
 
-            //GenerateChilds(currentHeight - 1);
+            GenerateChilds(childA, currentHeight - 1);
+            GenerateChilds(childB, currentHeight - 1);
         }
     }
 }

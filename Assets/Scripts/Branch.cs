@@ -6,7 +6,7 @@ public class Branch : MonoBehaviour
 {
     SpriteRenderer spriteBranch;
     List<GameObject> childs;
-    Branch parent;
+    GameObject parent;
 
     int spawnX;
     int spawnY;
@@ -15,12 +15,20 @@ public class Branch : MonoBehaviour
     
     void Start()
     {
+        childs = new List<GameObject>();
+
         scale = 100;
         spriteBranch = GetComponent<SpriteRenderer>();
+    }
+
+    public void SetParent(GameObject parent)
+    {
+        this.parent = parent;
     }
 
     public void AddChild(GameObject child)
     {
         childs.Add(child);
+        child.GetComponent<Branch>().SetParent(gameObject);
     }
 }
