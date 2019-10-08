@@ -1,0 +1,40 @@
+Initiating legacy licensing module
+
+LICENSE SYSTEM [2019108 13:34:20] Next license update check is after 2018-09-21T14:44:33
+
+Built from '2019.2/staging' branch; Version is '2019.2.8f1 (ff5b465c8d13) revision 16735046'; Using compiler version '191627012'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'fr' Physical Memory: 16036 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+[Package Manager] Server::Start -- Port 52495 was selected
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2019.2.8f1\Editor\Unity.exe
+-batchmode
+-nographics
+-logFile
+logRunSetup.txt
+-projectPath
+C:\Users\ELE5d5aa54422115\Sources\Unity\Croissance
+-executeMethod
+WwiseSetupWizard.RunSetup
+-quit
+Successfully changed project path to: C:\Users\ELE5d5aa54422115\Sources\Unity\Croissance
+C:/Users/ELE5d5aa54422115/Sources/Unity/Croissance
+It looks like another Unity instance is running with this project open.
+
+Multiple Unity instances cannot open the same project.
+
+Project: C:/Users/ELE5d5aa54422115/Sources/Unity/Croissance
+ 
+(Filename: C:\buildslave\unity\build\Editor/Src/Application/Application.cpp Line: 390)
+
+Fatal Error! It looks like another Unity instance is running with this project open.
+
+Multiple Unity instances cannot open the same project.
+
+Project: C:/Users/ELE5d5aa54422115/Sources/Unity/Croissance
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Utilities/Argv.cpp Line: 360)
+
+Exiting without the bug reporter. Application will terminate with return code 1
