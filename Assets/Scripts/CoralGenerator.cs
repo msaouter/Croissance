@@ -37,7 +37,7 @@ public class CoralGenerator : MonoBehaviour
             childB.AddComponent<Branch>();
             currentCoral.GetComponent<Branch>().AddChild(childB);
 
-            GenerateChilds(currentHeight - 1);
+            //GenerateChilds(currentHeight - 1);
         }
     }
 }
