@@ -5,7 +5,7 @@ using UnityEngine;
 public class Branch : MonoBehaviour
 {
     SpriteRenderer spriteBranch;
-    List<GameObject> childs;
+    List<GameObject> childs = new List<GameObject>();
     GameObject parent;
 
     public List<Vector2> SpawnPoint;
@@ -14,8 +14,6 @@ public class Branch : MonoBehaviour
     
     void Start()
     {
-        childs = new List<GameObject>();
-
         scale = 100;
         spriteBranch = GetComponent<SpriteRenderer>();
     }

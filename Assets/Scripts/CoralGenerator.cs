@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CoralGenerator : MonoBehaviour
 {
-    Transform coralRoot;
+    public GameObject coralRoot;
 
     public GameObject coralIPrefab;
     public GameObject coralYPrefab;
@@ -15,6 +15,7 @@ public class CoralGenerator : MonoBehaviour
     void Start()
     {
         height = 4;
+        Generate();
     }
 
     // Update is called once per frame
@@ -25,29 +26,49 @@ public class CoralGenerator : MonoBehaviour
 
     void Generate()
     {
-
+        GenerateChilds(coralRoot, height);
     }
 
     void GenerateChilds(GameObject currentCoral, int currentHeight)
     {
         if (currentHeight == 0) {
             GameObject child = Instantiate(coralIPrefab, currentCoral.transform);
-            child.AddComponent<Branch>();
             currentCoral.GetComponent<Branch>().AddChild(child);
+            child.transform.localPosition = new Vector3(
+                currentCoral.GetComponent<Branch>().SpawnPoint[0].x,
+                currentCoral.GetComponent<Branch>().SpawnPoint[0].y,
+                0
+            );
 
         }
         if (currentHeight > 1) {
             GameObject childY = Instantiate(coralYPrefab, currentCoral.transform);
-            childY.AddComponent<Branch>();
             currentCoral.GetComponent<Branch>().AddChild(childY);
 
+            childY.transform.localPosition = new Vector3(
+                currentCoral.GetComponent<Branch>().SpawnPoint[0].x,
+                currentCoral.GetComponent<Branch>().SpawnPoint[0].y,
+                0
+            );
+
             GameObject childA = Instantiate(coralIPrefab, childY.transform);
-            childA.AddComponent<Branch>();
             childY.GetComponent<Branch>().AddChild(childA);
 
+            childA.transform.localPosition = new Vector3(
+                childY.GetComponent<Branch>().SpawnPoint[0].x,
+                childY.GetComponent<Branch>().SpawnPoint[0].y,
+                0
+            );
+
+
             GameObject childB = Instantiate(coralIPrefab, childY.transform);
-            childB.AddComponent<Branch>();
             childY.GetComponent<Branch>().AddChild(childB);
+
+            childB.transform.localPosition = new Vector3(
+                childY.GetComponent<Branch>().SpawnPoint[1].x,
+                childY.GetComponent<Branch>().SpawnPoint[1].y,
+                0
+            );
 
             GenerateChilds(childA, currentHeight - 1);
             GenerateChilds(childB, currentHeight - 1);
