@@ -1,0 +1,25 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1532608259	Music_Degradation			\Default Work Unit\Music_Degradation	
+	2996874600	Music_ST			\Default Work Unit\Music_ST	
+
+State	ID	Name	State Group			Notes
+	0	None	Music_Degradation			
+	2065453592	Degradation_2	Music_Degradation			
+	2065453593	Degradation_3	Music_Degradation			
+	2065453594	Degradation_0	Music_Degradation			
+	2065453595	Degradation_1	Music_Degradation			
+	2065453598	Degradation_4	Music_Degradation			
+	0	None	Music_ST			
+	981024095	Kill_Coral	Music_ST			
+	3810549462	Contemplation	Music_ST			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Ambience	
+	1802970371	FX			\Default Work Unit\Master Audio Bus\FX	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

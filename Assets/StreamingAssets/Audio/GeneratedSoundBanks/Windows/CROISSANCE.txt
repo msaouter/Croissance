@@ -1,0 +1,99 @@
+Event	ID	Name			Wwise Object Path	Notes
+	41896295	Music_Kill_Coral			\Terry\Music_Kill_Coral	
+	1507659040	Music_Degradation_2			\Terry\Music_Degradation_2	
+	1507659041	Music_Degradation_3			\Terry\Music_Degradation_3	
+	1507659042	Music_Degradation_0			\Terry\Music_Degradation_0	
+	1507659043	Music_Degradation_1			\Terry\Music_Degradation_1	
+	1507659046	Music_Degradation_4			\Terry\Music_Degradation_4	
+	2990463502	Music_Contemplation			\Terry\Music_Contemplation	
+	3725903807	Music_Start			\Terry\Music_Start	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1532608259	Music_Degradation			\Default Work Unit\Music_Degradation	
+	2996874600	Music_ST			\Default Work Unit\Music_ST	
+
+State	ID	Name	State Group			Notes
+	0	None	Music_Degradation			
+	2065453592	Degradation_2	Music_Degradation			
+	2065453593	Degradation_3	Music_Degradation			
+	2065453594	Degradation_0	Music_Degradation			
+	2065453595	Degradation_1	Music_Degradation			
+	2065453598	Degradation_4	Music_Degradation			
+	0	None	Music_ST			
+	981024095	Kill_Coral	Music_ST			
+	3810549462	Contemplation	Music_ST			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	8140020	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_1_Pan		
+	21804706	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_2_Mallet_Flux		
+	57330977	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_5_Sonosphère		
+	105337667	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_1_Pan		
+	109362053	Degradation_1	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_1_Pan		
+	190621755	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_2_Mallet_Flux		
+	193640501	Degradation_2	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_1_Pan		
+	211888083	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_1_Pan		
+	222863810	Degradation_2	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_1_Pan		
+	266148349	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_2_Mallet_Flux		
+	350460255	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_1_Pan		
+	370257004	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_3_Pad_Metallic		
+	383682429	Degradation_2	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_2_Mallet_Flux		
+	400694279	Degradation_2	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_1_Pan		
+	447193670	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_2_Mallet_Flux		
+	485829964	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_3_Pad_Metallic		
+	500787572	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_2_Mallet_Flux		
+	516085425	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_5_Sonosphere		
+	606874385	Degradation_2	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_2_Mallet_Flux		
+	610543638	Degradation_1	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_1_Pan		
+	615373192	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_3_Pad_Metallic		
+	641089659	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_4_Water_Pad		
+	676154223	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_4_Water_Pad		
+	688501794	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_1_Pan		
+	691546935	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_4_Water_Pad		
+	715269287	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_1_Pan		
+	735533022	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_2_Mallet_Flux		
+	735840552	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_1_Pan		
+	766597408	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_3_Pad_Metallic		
+	786040259	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_3_Pad_Metallic		
+	786756439	Degradation_1	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_1_Pan		
+	825599713	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_2_Mallet_Flux		
+	849047048	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_4_Water_Pad		
+	858536680	Degradation_1	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_1_Pan		
+	886692017	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_3_Pad_Metallic		
+	902342694	Degradation_2	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_1_Pan		
+	915188221	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_5_Sonosphere		
+	955483964	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_3_Pad_Metallic		
+	958987660	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_3_Pad_Metallic		
+	1019662806	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_5_Sonosphere		
+	1021865501	Degradation_2	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_2_Mallet_Flux		
+	1049158096	Degradation_2	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_2_Mallet_Flux		
+	1064836182	Degradation_3	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_2_Mallet_Flux		
+	1070302786	Degradation_4	Music_Degradation	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_1_Pan		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	179818253	Music_Croissance_Kill_Coral_C_1_Pan	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_C_Pan_C42B8C3C.wem		\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_1_Pan		956944
+	592671692	Music_Croissance_Kill_Coral_B_1_Pan	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_B_Pan_C42B8C3C.wem		\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_1_Pan		1013052
+	738575729	Music_Croissance_Kill_Coral_D_1_Pan	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_D_Pan_C42B8C3C.wem		\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_1_Pan		609152
+	924608942	Cymbal	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\MACK Effect Reverse Cymbal_C42B8C3C.wem		\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Transition\Cymbal\Cymbal		1601598
+	1023224694	Music_Croissance_Kill_Coral_A_1_Pan	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_A_Pan_C42B8C3C.wem		\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_1_Pan		1387108
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	43893638	Music_Croissance_Kill_Coral_C_3_Pad_Metallic	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_C_Pad_Metallic_C42B8C3C.wem	43893638.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_3_Pad_Metallic	
+	127708902	Music_Croissance_Kill_Coral_C_2_Mallet_Flux	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_C_Mallet_Flux_C42B8C3C.wem	127708902.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_2_Mallet_Flux	
+	171089575	Music_Croissance_Kill_Coral_A_4_Water_Pad	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_A_Water_Pad_C42B8C3C.wem	171089575.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_4_Water_Pad	
+	225181845	Music_Croissance_Kill_Coral_B_3_Pad_Metallic	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_B_Pad_Metallic_C42B8C3C.wem	225181845.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_3_Pad_Metallic	
+	254715500	Music_Croissance_Kill_Coral_D_5_Sonosphere	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_D_Sonosphere_C42B8C3C.wem	254715500.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_5_Sonosphere	
+	358762917	Music_Croissance_Kill_Coral_C_4_Water_Pad	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_C_Water_Pad_C42B8C3C.wem	358762917.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_4_Water_Pad	
+	421481085	Music_Croissance_Kill_Coral_C	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_C_C42B8C3C.wem	421481085.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Kill_Coral\Music_Croissance_Kill_Coral_C\Music_Croissance_Kill_Coral_C	
+	473964546	Music_Croissance_Kill_Coral_C_5_Sonosphere	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_C_Sonosphere_C42B8C3C.wem	473964546.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_C\Music_Croissance_Kill_Coral_C_5_Sonosphere	
+	659450201	Music_Croissance_Kill_Coral_A	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_A_C42B8C3C.wem	659450201.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Kill_Coral\Music_Croissance_Kill_Coral_A\Music_Croissance_Kill_Coral_A	
+	661062577	Music_Croissance_Kill_Coral_A_5_Sonosphère	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_A_Sonosphère_C42B8C3C.wem	661062577.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_5_Sonosphère	
+	825850638	Music_Croissance_Kill_Coral_B	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_B_C42B8C3C.wem	825850638.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Kill_Coral\Music_Croissance_Kill_Coral_B\Music_Croissance_Kill_Coral_B	
+	827508458	Music_Croissance_Kill_Coral_D_2_Mallet_Flux	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_D_Mallet_Flux_C42B8C3C.wem	827508458.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_2_Mallet_Flux	
+	841238621	Music_Croissance_Kill_Coral_B_4_Water_Pad	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_B_Water_Pad_C42B8C3C.wem	841238621.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_4_Water_Pad	
+	874713701	Music_Croissance_Kill_Coral_A_2_Mallet_Flux	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_A_Mallet_Flux_C42B8C3C.wem	874713701.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_2_Mallet_Flux	
+	896771487	Music_Croissance_Kill_Coral_B_5_Sonosphere	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_B_Sonosphere_C42B8C3C.wem	896771487.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_5_Sonosphere	
+	938987705	Music_Croissance_Kill_Coral_A_3_Pad_Metallic	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_A_Pad_Metallic_C42B8C3C.wem	938987705.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_A\Music_Croissance_Kill_Coral_A_3_Pad_Metallic	
+	950671692	Music_Croissance_Kill_Coral_B_2_Mallet_Flux	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_B_Mallet_Flux_C42B8C3C.wem	950671692.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_B\Music_Croissance_Kill_Coral_B_2_Mallet_Flux	
+	987465526	Music_Croissance_Kill_Coral_D_4_Water_Pad	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_D_Water_Pad_C42B8C3C.wem	987465526.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_4_Water_Pad	
+	1047806511	Music_Croissance_Kill_Coral_D_3_Pad_Metallic	C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\SFX\Music_Croissance_Kill_Coral_D_Pad_Metallic_C42B8C3C.wem	1047806511.wem	\Interactive Music Hierarchy\Default Work Unit\Music_Croissance\Music_Contemplation\Music_Croissance_D\Music_Croissance_Kill_Coral_D_3_Pad_Metallic	
+
