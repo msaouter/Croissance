@@ -25,9 +25,9 @@ public class Branch : MonoBehaviour
         scale = 100;
         spriteBranch = GetComponent<SpriteRenderer>();
 
-        angleAnimation = (angleBounds);
+        angleAnimation = angleBounds;
 
-        randomSpeed = Random.Range(0f, 0.5f);
+        randomSpeed = Random.Range(0f, 0.1f);
     }
 
     public void SetParent(GameObject parent)

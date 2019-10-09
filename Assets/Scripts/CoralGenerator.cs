@@ -17,7 +17,7 @@ public class CoralGenerator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        height = 4;
+        height = 8;
         Generate();
     }
 
