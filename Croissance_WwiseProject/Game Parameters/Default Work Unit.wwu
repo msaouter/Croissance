@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{90C4FF37-ACDD-4BEF-B61A-9684D151B3F3}" SchemaVersion="94">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{90C4FF37-ACDD-4BEF-B61A-9684D151B3F3}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{90C4FF37-ACDD-4BEF-B61A-9684D151B3F3}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="RTPC_SideChain" ID="{AAF9EF2E-D756-4E9C-8D30-2D982C1A8EC4}"/>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>

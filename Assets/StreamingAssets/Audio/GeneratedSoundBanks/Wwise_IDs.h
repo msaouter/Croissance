@@ -11,29 +11,9 @@
 
 namespace AK
 {
-    namespace EVENTS
-    {
-        static const AkUniqueID MUSIC_PLAY = 202194903U;
-        static const AkUniqueID TEST_GIT = 2925976780U;
-    } // namespace EVENTS
-
-    namespace GAME_PARAMETERS
-    {
-        static const AkUniqueID RTPC_SIDECHAIN = 3336838409U;
-    } // namespace GAME_PARAMETERS
-
-    namespace BANKS
-    {
-        static const AkUniqueID INIT = 1355168291U;
-        static const AkUniqueID CROISSANCE = 2770033377U;
-    } // namespace BANKS
-
     namespace BUSSES
     {
-        static const AkUniqueID AMBIENCE = 85412153U;
-        static const AkUniqueID FX = 1802970371U;
         static const AkUniqueID MASTER_AUDIO_BUS = 3803692087U;
-        static const AkUniqueID MUSIC = 3991942870U;
     } // namespace BUSSES
 
     namespace AUDIO_DEVICES
