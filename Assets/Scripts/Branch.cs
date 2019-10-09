@@ -41,6 +41,22 @@ public class Branch : MonoBehaviour
         child.GetComponent<Branch>().SetParent(gameObject);
     }
 
+    public void RemoveChild(GameObject child)
+    {
+        childs.Remove(child);
+    }
+
+    public void RemoveBranch()
+    {
+        for (int i = 0; i < childs.Count; i++) {
+            childs[i].GetComponent<Branch>().RemoveBranch();
+            //Destroy(child);
+        }
+
+        if (parent != null) parent.GetComponent<Branch>().RemoveChild(gameObject);
+        Destroy(gameObject);
+    }
+
     private void Update()
     {
         Vector3 pivotPoint = new Vector3(
