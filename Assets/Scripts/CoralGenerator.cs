@@ -35,8 +35,8 @@ public class CoralGenerator : MonoBehaviour
             GameObject child = Instantiate(coralIPrefab, currentCoral.transform);
             currentCoral.GetComponent<Branch>().AddChild(child);
             child.transform.localPosition = new Vector3(
-                currentCoral.GetComponent<Branch>().SpawnPoint[0].x,
-                currentCoral.GetComponent<Branch>().SpawnPoint[0].y,
+                currentCoral.GetComponent<Branch>().SpawnPoint[0].x - child.GetComponent<Branch>().rootPoint.x,
+                currentCoral.GetComponent<Branch>().SpawnPoint[0].y - child.GetComponent<Branch>().rootPoint.y,
                 0
             );
 
@@ -46,8 +46,8 @@ public class CoralGenerator : MonoBehaviour
             currentCoral.GetComponent<Branch>().AddChild(childY);
 
             childY.transform.localPosition = new Vector3(
-                currentCoral.GetComponent<Branch>().SpawnPoint[0].x,
-                currentCoral.GetComponent<Branch>().SpawnPoint[0].y,
+                currentCoral.GetComponent<Branch>().SpawnPoint[0].x - childY.GetComponent<Branch>().rootPoint.x,
+                currentCoral.GetComponent<Branch>().SpawnPoint[0].y - childY.GetComponent<Branch>().rootPoint.y,
                 0
             );
 
@@ -55,8 +55,8 @@ public class CoralGenerator : MonoBehaviour
             childY.GetComponent<Branch>().AddChild(childA);
 
             childA.transform.localPosition = new Vector3(
-                childY.GetComponent<Branch>().SpawnPoint[0].x,
-                childY.GetComponent<Branch>().SpawnPoint[0].y,
+                childY.GetComponent<Branch>().SpawnPoint[0].x - childA.GetComponent<Branch>().rootPoint.x,
+                childY.GetComponent<Branch>().SpawnPoint[0].y - childA.GetComponent<Branch>().rootPoint.y,
                 0
             );
 
@@ -65,8 +65,8 @@ public class CoralGenerator : MonoBehaviour
             childY.GetComponent<Branch>().AddChild(childB);
 
             childB.transform.localPosition = new Vector3(
-                childY.GetComponent<Branch>().SpawnPoint[1].x,
-                childY.GetComponent<Branch>().SpawnPoint[1].y,
+                childY.GetComponent<Branch>().SpawnPoint[1].x - childB.GetComponent<Branch>().rootPoint.x,
+                childY.GetComponent<Branch>().SpawnPoint[1].y - childB.GetComponent<Branch>().rootPoint.y,
                 0
             );
 
