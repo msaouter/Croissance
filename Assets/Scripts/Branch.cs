@@ -8,8 +8,7 @@ public class Branch : MonoBehaviour
     List<GameObject> childs;
     GameObject parent;
 
-    int spawnX;
-    int spawnY;
+    public List<Vector2> SpawnPoint;
 
     int scale;
     
