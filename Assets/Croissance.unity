@@ -402,7 +402,7 @@ PrefabInstance:
     - target: {fileID: 4924681933206154845, guid: 564562613d88b304caa6e3a1fa4aafc4,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4924681933206154845, guid: 564562613d88b304caa6e3a1fa4aafc4,
         type: 3}
@@ -451,6 +451,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coralRoot: {fileID: 1097762859}
+  coralIPrefabs:
+  - {fileID: 4924681933206154840, guid: 564562613d88b304caa6e3a1fa4aafc4, type: 3}
+  - {fileID: 1413225196258058985, guid: 45fa308b16da5964494d5b51948bc43f, type: 3}
+  - {fileID: 6573710509032977486, guid: b3109064de2e5d2419f951016ec44d10, type: 3}
+  - {fileID: 5431029139841424424, guid: 074c7578ecbc94f45802dad4f7b5b291, type: 3}
+  - {fileID: 6345666770058154049, guid: 5766b8bd16c5d8c4b985ad3ba5e00ede, type: 3}
+  coralYPrefabs:
+  - {fileID: 1790882797040399847, guid: 7df4437c686ac9c4382b852baded5a0a, type: 3}
+  - {fileID: 8440875907479443972, guid: c02b726c2b04e98489832558cc8edc51, type: 3}
+  - {fileID: 1168977406475522086, guid: 914d8bcfea3f2694f8625d0704c42f7e, type: 3}
+  - {fileID: 8083976378206236651, guid: de0b270f98f90614fa746575d6558814, type: 3}
+  - {fileID: 572301645899510819, guid: 8ce789bae6037d840b4dc75c5a47e268, type: 3}
   coralIPrefab: {fileID: 6573710509032977486, guid: b3109064de2e5d2419f951016ec44d10,
     type: 3}
   coralYPrefab: {fileID: 8440875907479443972, guid: c02b726c2b04e98489832558cc8edc51,
@@ -467,5 +479,5 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
