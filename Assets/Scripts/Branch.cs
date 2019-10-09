@@ -9,6 +9,7 @@ public class Branch : MonoBehaviour
     GameObject parent;
 
     public List<Vector2> SpawnPoint;
+    public Vector2 rootPoint;
 
     int scale;
     

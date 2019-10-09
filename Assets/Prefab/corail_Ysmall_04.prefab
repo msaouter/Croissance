@@ -96,3 +96,4 @@ MonoBehaviour:
   SpawnPoint:
   - {x: -0.89, y: 0.386}
   - {x: 0.816, y: 1.127}
+  rootPoint: {x: 0.08, y: -1}

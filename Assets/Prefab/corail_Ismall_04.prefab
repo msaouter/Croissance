@@ -95,3 +95,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SpawnPoint:
   - {x: 0.606, y: 1.028}
+  rootPoint: {x: -0.54, y: -0.84}

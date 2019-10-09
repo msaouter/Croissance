@@ -75,7 +75,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.85, y: 2.47}
+  m_Size: {x: 1.77, y: 2.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -96,3 +96,4 @@ MonoBehaviour:
   SpawnPoint:
   - {x: -0.667, y: 1.096}
   - {x: 0.704, y: 1.08}
+  rootPoint: {x: 0.03, y: -1}
