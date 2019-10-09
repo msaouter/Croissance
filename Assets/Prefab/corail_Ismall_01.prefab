@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4924681933206154845}
   - component: {fileID: 4924681933206154846}
   - component: {fileID: 4924681933206154847}
+  - component: {fileID: 8534254558914390607}
   m_Layer: 0
   m_Name: corail_Ismall_01
   m_TagString: Untagged
@@ -96,3 +97,16 @@ MonoBehaviour:
   SpawnPoint:
   - {x: -0.122, y: 1.11}
   rootPoint: {x: 0, y: -1}
+--- !u!65 &8534254558914390607
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4924681933206154840}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.83, y: 2.59, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}

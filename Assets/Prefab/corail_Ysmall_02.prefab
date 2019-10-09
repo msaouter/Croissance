@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8440875907479444026}
   - component: {fileID: 8440875907479443973}
   - component: {fileID: 8440875907479444027}
+  - component: {fileID: -1291508201696228823}
   m_Layer: 0
   m_Name: corail_Ysmall_02
   m_TagString: Untagged
@@ -97,3 +98,16 @@ MonoBehaviour:
   - {x: -0.667, y: 1.096}
   - {x: 0.704, y: 1.08}
   rootPoint: {x: 0.03, y: -1}
+--- !u!65 &-1291508201696228823
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8440875907479443972}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.77, y: 2.76, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
