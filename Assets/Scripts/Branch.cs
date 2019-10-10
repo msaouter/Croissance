@@ -13,6 +13,8 @@ public class Branch : MonoBehaviour
 
     float scale;
 
+    public Vector3 defaultLocalPosition;
+
     float angleStep = 0.05f;
     float angleStepSign = 1;
     float angleBounds = 5;
@@ -59,7 +61,6 @@ public class Branch : MonoBehaviour
             childs[i].GetComponent<Branch>().RemoveBranch();
         }
 
-        if (parent != null) parent.GetComponent<Branch>().RemoveChild(gameObject);
         scale = 0f;
 
         OnScaleChange();
@@ -73,7 +74,7 @@ public class Branch : MonoBehaviour
         //Scale
         if (parent != null) {
             if (parent.GetComponent<Branch>().scale >= 1f && scale < 1f) {
-                scale = scale + (0.1f * Time.deltaTime);
+                scale = scale + (0.5f * Time.deltaTime);
                 if (scale > 1f) scale = 1f;
                 OnScaleChange();
             }
@@ -104,6 +105,8 @@ public class Branch : MonoBehaviour
 
     void OnScaleChange()
     {
+        transform.localPosition = defaultLocalPosition;
+
         transform.localScale = new Vector3(
             defaultWidth * scale,
             defaultHeight * scale,

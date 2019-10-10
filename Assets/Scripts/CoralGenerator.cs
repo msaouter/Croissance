@@ -55,6 +55,8 @@ public class CoralGenerator : MonoBehaviour
                 30
             );
 
+
+            child.GetComponent<Branch>().defaultLocalPosition = child.transform.localPosition;
         }
         if (currentHeight > 1) {
             GameObject childY = Instantiate(randCoralYPrefab, currentCoral.transform);
@@ -65,6 +67,8 @@ public class CoralGenerator : MonoBehaviour
                 currentCoral.GetComponent<Branch>().SpawnPoint[0].y - childY.GetComponent<Branch>().rootPoint.y,
                 zIndex
             );
+
+
 
             GameObject childA = Instantiate(randCoralIPrefab, childY.transform);
             childY.GetComponent<Branch>().AddChild(childA);
@@ -85,6 +89,7 @@ public class CoralGenerator : MonoBehaviour
                 childY.GetComponent<Branch>().SpawnPoint[1].y - childB.GetComponent<Branch>().rootPoint.y,
                 zIndex
             );
+            
 
             Vector3 pivotPoint = new Vector3(
                 childY.transform.position.x + childY.GetComponent<Branch>().rootPoint.x,
@@ -97,6 +102,10 @@ public class CoralGenerator : MonoBehaviour
                 new Vector3(0, 0, 1),
                 20 * angleCoefficient
             );
+
+            childY.GetComponent<Branch>().defaultLocalPosition = childY.transform.localPosition;
+            childA.GetComponent<Branch>().defaultLocalPosition = childA.transform.localPosition;
+            childB.GetComponent<Branch>().defaultLocalPosition = childB.transform.localPosition;
 
             GenerateChilds(childA, currentHeight - 1, 1, zIndex - 1);
             GenerateChilds(childB, currentHeight - 1, -1, zIndex + 1);
