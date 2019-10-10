@@ -17,21 +17,21 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: 0f64c9223873214ca708c104293d2f38
     GuidInternal: 
-    m_lastTime: -8586309963390431613
+    m_lastTime: -8586309960985991178
     List: []
   AuxBusWwu:
   - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: 183922adf3784e43b179d4b1df801cc5
     GuidInternal: 
-    m_lastTime: -8586309963390587893
+    m_lastTime: -8586309960992710675
     List: []
   BankWwu:
   - PhysicalPath: SoundBanks\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: 867c499383e2984d940ae326a5a57cea
     GuidInternal: 
-    m_lastTime: -8586309963390587893
+    m_lastTime: -8586309960985991178
     List:
     - name: CROISSANCE
       guid: ac159283408acb4c8a0f1363f4ffa629
@@ -47,14 +47,122 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: c0754284016cf84bbb47972cfc7021fb
     GuidInternal: 
-    m_lastTime: -8586309963390587893
+    m_lastTime: -8586309960993492029
+    List: []
+  - PhysicalPath: Events\Terry.wwu
+    ParentPhysicalPath: 
+    guid: 37e6c695626bb94c92e02d8a5a13ab82
+    GuidInternal: 
+    m_lastTime: -8586309728038010942
+    List:
+    - name: Music_Contemplation
+      guid: a93a6a33e14ad84ca4b8f1dc443ce197
+      id: 2990463502
+      PathAndIcons:
+      - ElementName: Terry
+        ObjectType: 12
+      - ElementName: Music_Contemplation
+        ObjectType: 3
+      Path: Terry\Music_Contemplation
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Degradation_0
+      guid: 6d930460169eca4fb8b8f56dd4ac8fd0
+      id: 1507659042
+      PathAndIcons:
+      - ElementName: Terry
+        ObjectType: 12
+      - ElementName: Music_Degradation_0
+        ObjectType: 3
+      Path: Terry\Music_Degradation_0
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Degradation_1
+      guid: a886ef623872eb46b55d7285ddc056f4
+      id: 1507659043
+      PathAndIcons:
+      - ElementName: Terry
+        ObjectType: 12
+      - ElementName: Music_Degradation_1
+        ObjectType: 3
+      Path: Terry\Music_Degradation_1
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Degradation_2
+      guid: 82f6a3c104b2024ba1aef74561f94ee6
+      id: 1507659040
+      PathAndIcons:
+      - ElementName: Terry
+        ObjectType: 12
+      - ElementName: Music_Degradation_2
+        ObjectType: 3
+      Path: Terry\Music_Degradation_2
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Degradation_3
+      guid: 8bf68495092e8e439d4263cc4cbd931c
+      id: 1507659041
+      PathAndIcons:
+      - ElementName: Terry
+        ObjectType: 12
+      - ElementName: Music_Degradation_3
+        ObjectType: 3
+      Path: Terry\Music_Degradation_3
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Degradation_4
+      guid: dbc9feb73835fd46aa3770d6d4c039c1
+      id: 1507659046
+      PathAndIcons:
+      - ElementName: Terry
+        ObjectType: 12
+      - ElementName: Music_Degradation_4
+        ObjectType: 3
+      Path: Terry\Music_Degradation_4
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Kill_Coral
+      guid: 1e61b71477d770448cdcd71c4256d077
+      id: 41896295
+      PathAndIcons:
+      - ElementName: Terry
+        ObjectType: 12
+      - ElementName: Music_Kill_Coral
+        ObjectType: 3
+      Path: Terry\Music_Kill_Coral
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Start
+      guid: ca9af97a21078d4eb756da2909427ed5
+      id: 3725903807
+      PathAndIcons:
+      - ElementName: Terry
+        ObjectType: 12
+      - ElementName: Music_Start
+        ObjectType: 3
+      Path: Terry\Music_Start
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  - PhysicalPath: Events\Thomas.wwu
+    ParentPhysicalPath: 
+    guid: 3185db87779eca408057210276fa872c
+    GuidInternal: 
+    m_lastTime: -8586309960993492029
     List: []
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: 37ffc490ddacef4bb61a9684d151b3f3
     GuidInternal: 
-    m_lastTime: -8586309963390587893
+    m_lastTime: -8586309960993335749
     List:
     - name: RTPC_SideChain
       guid: 2eeff9aa56d79c4e8d302d982c1a8ec4
@@ -70,8 +178,57 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: cea291b4cb5a09468918fb9210b4d19f
     GuidInternal: 
-    m_lastTime: -8586309963390587893
+    m_lastTime: -8586309728015680502
     List:
+    - name: Music_Degradation
+      guid: 2999ceff834ce94cbcd52b5945f68f54
+      id: 1532608259
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music_Degradation
+        ObjectType: 9
+      Path: Default Work Unit\Music_Degradation
+      values:
+      - name: Degradation_0
+        guid: c41f5e44811a054898d836bbe25741c8
+        id: 2065453594
+        PathAndIcons:
+        - ElementName: Degradation_0
+          ObjectType: 8
+      - name: Degradation_1
+        guid: 6d097b5962348f4f80dbd189b85defe7
+        id: 2065453595
+        PathAndIcons:
+        - ElementName: Degradation_1
+          ObjectType: 8
+      - name: Degradation_2
+        guid: 1d2ba9be00422340a729f5cfbb1cbea5
+        id: 2065453592
+        PathAndIcons:
+        - ElementName: Degradation_2
+          ObjectType: 8
+      - name: Degradation_3
+        guid: fb6c099d8023ce40852f27698b8d59b4
+        id: 2065453593
+        PathAndIcons:
+        - ElementName: Degradation_3
+          ObjectType: 8
+      - name: Degradation_4
+        guid: 204bf64c0d2cbc4a93ec93910e734676
+        id: 2065453598
+        PathAndIcons:
+        - ElementName: Degradation_4
+          ObjectType: 8
+      - name: None
+        guid: 16e4bbb465b4e84e8cc4b23be441c8bf
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
     - name: Music_ST
       guid: 5132b9405caf75499191be5b492675b7
       id: 2996874600
@@ -108,15 +265,18 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: fee79f8ac647794ea73ce582c7c29cc8
     GuidInternal: 
-    m_lastTime: -8586309963390587893
+    m_lastTime: -8586309960985991178
     List: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: c5b68eaeb370c845b762b93b5e811851
     GuidInternal: 
-    m_lastTime: -8586309963390431613
+    m_lastTime: -8586309960985991178
     List: []
-  ExpandedItems: []
+  ExpandedItems:
+  - /Croissance_WwiseProject
+  - /Croissance_WwiseProject/Events
+  - /Croissance_WwiseProject/Events/Terry
   autoPopulateEnabled: 1
   CurrentPluginConfig: 

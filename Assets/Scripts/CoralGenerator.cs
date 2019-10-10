@@ -9,9 +9,6 @@ public class CoralGenerator : MonoBehaviour
     public List<GameObject> coralIPrefabs;
     public List<GameObject> coralYPrefabs;
 
-    public GameObject coralIPrefab;
-    public GameObject coralYPrefab;
-
     int height;
 
     // Start is called before the first frame update

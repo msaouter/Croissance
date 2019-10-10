@@ -27,5 +27,13 @@ public class GameManager : MonoBehaviour
                 hit.transform.gameObject.GetComponent<Branch>().RemoveBranch();
             }
         }
+
+        if (Input.GetButtonDown("Fire1")) {
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit hit;
+            if (Physics.Raycast(ray, out hit, 100.0f)) {
+                hit.transform.gameObject.GetComponent<Branch>().RemoveBranch();
+            }
+        }
     }
 }

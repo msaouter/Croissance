@@ -11,7 +11,7 @@ public class Branch : MonoBehaviour
     public List<Vector2> SpawnPoint;
     public Vector2 rootPoint;
 
-    int scale;
+    float scale;
 
     float angleStep = 0.05f;
     float angleStepSign = 1;
@@ -19,10 +19,17 @@ public class Branch : MonoBehaviour
     float angleAnimation;
 
     float randomSpeed;
+
+    float defaultHeight;
+    float defaultWidth;
     
     void Start()
     {
-        scale = 100;
+        scale = 1f;
+
+        defaultHeight = transform.localScale.y;
+        defaultWidth = transform.localScale.x;
+
         spriteBranch = GetComponent<SpriteRenderer>();
 
         angleAnimation = angleBounds;
@@ -50,15 +57,26 @@ public class Branch : MonoBehaviour
     {
         for (int i = 0; i < childs.Count; i++) {
             childs[i].GetComponent<Branch>().RemoveBranch();
-            //Destroy(child);
         }
 
         if (parent != null) parent.GetComponent<Branch>().RemoveChild(gameObject);
-        Destroy(gameObject);
+        scale = 0f;
+
+        OnScaleChange();
     }
 
     private void Update()
     {
+        //Scale
+        if (parent != null) {
+            if (parent.GetComponent<Branch>().scale >= 1f && scale < 1f) {
+                scale = scale + (0.1f * Time.deltaTime);
+                if (scale > 1f) scale = 1f;
+                OnScaleChange();
+            }
+        }
+
+        //Animation
         Vector3 pivotPoint = new Vector3(
                 transform.position.x + rootPoint.x,
                 transform.position.y + rootPoint.y,
@@ -79,5 +97,14 @@ public class Branch : MonoBehaviour
         else if (angleAnimation < -angleBounds) {
             angleStepSign = 1;
         }
+    }
+
+    void OnScaleChange()
+    {
+        transform.localScale = new Vector3(
+            defaultWidth * scale,
+            defaultHeight * scale,
+            1
+        );
     }
 }
