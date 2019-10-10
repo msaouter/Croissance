@@ -63,6 +63,9 @@ public class Branch : MonoBehaviour
         scale = 0f;
 
         OnScaleChange();
+
+        /* Inté son */
+        AkSoundEngine.PostEvent("Music_Kill_Coral", parent);
     }
 
     private void Update()
@@ -107,4 +110,23 @@ public class Branch : MonoBehaviour
             1
         );
     }
+
+   /* int ParcoursArbre()
+    {
+        int degradation = 0;
+        ParcoursArbreAux(parent, degradation);
+
+        /* Degradation compte nb Coraux dont scale < 0.8. Conditions de renvoi 
+    }
+
+    int ParcoursArbreAux(GameObject currentBranch, int degradation)
+    {
+        if (currentBranch.GetComponent<Branch>().scale < 0.8)
+        {
+
+            return ParcoursArbreAux(childs, degradation + 1);
+        }
+
+        return ParcoursArbreAux(childs, degradation);
+    } */
 }

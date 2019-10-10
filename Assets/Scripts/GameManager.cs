@@ -5,10 +5,12 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public Camera cam;
+    int tours;
 
     // Start is called before the first frame update
     void Start()
     {
+        tours = 0;
     }
 
     // Update is called once per frame
@@ -25,6 +27,15 @@ public class GameManager : MonoBehaviour
 
             if (Physics.Raycast(ray, out hit, 100.0f)) {
                 hit.transform.gameObject.GetComponent<Branch>().RemoveBranch();
+            }
+        }
+
+        else
+        {
+            tours += 1;
+            if (tours >= 540)
+            {
+                /*AkSoundEngine.PostEvent("Music_Contemplation",  /* Trouver un GameObject à remettre );*/
             }
         }
 

@@ -27,7 +27,6 @@ public class BubblesGenerator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(randomIndex);
 
         if (Random.Range(0f,1f)<(1/averageSecondsBetweenBubbles * Time.deltaTime))
         {           
