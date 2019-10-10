@@ -20,6 +20,7 @@ namespace AK
         static const AkUniqueID MUSIC_DEGRADATION_3 = 1507659041U;
         static const AkUniqueID MUSIC_DEGRADATION_4 = 1507659046U;
         static const AkUniqueID MUSIC_KILL_CORAL = 41896295U;
+        static const AkUniqueID MUSIC_PHOTO = 2199501515U;
         static const AkUniqueID MUSIC_START = 3725903807U;
     } // namespace EVENTS
 
@@ -47,6 +48,7 @@ namespace AK
             {
                 static const AkUniqueID CONTEMPLATION = 3810549462U;
                 static const AkUniqueID KILL_CORAL = 981024095U;
+                static const AkUniqueID PHOTO = 3205522195U;
             } // namespace STATE
         } // namespace MUSIC_ST
 

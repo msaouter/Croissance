@@ -19,7 +19,6 @@ public class GameManager : MonoBehaviour
     {
         if (Input.touchCount > 0) {
             tours = 0;
-            AkSoundEngine.PostEvent("Music_Kill_Coral", Sound);
 
             Ray ray = cam.ScreenPointToRay(new Vector3(
                 Input.touches[0].position.x,
