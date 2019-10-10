@@ -907,6 +907,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 725413094}
+  Sound: {fileID: 1097762859}
 --- !u!114 &2139319987
 MonoBehaviour:
   m_ObjectHideFlags: 0

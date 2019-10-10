@@ -111,22 +111,62 @@ public class Branch : MonoBehaviour
         );
     }
 
-   /* int ParcoursArbre()
+    void ParcoursArbre()
     {
         int degradation = 0;
-        ParcoursArbreAux(parent, degradation);
+        float etat = 0;
+        degradation = ParcoursArbreAux(parent, degradation);
 
-        /* Degradation compte nb Coraux dont scale < 0.8. Conditions de renvoi 
+        /* Degradation compte nb Coraux dont scale < 0.8 */
+
+        etat = degradation / (2 ^ 6); /* ATTENTION, Si la height bouge dans CoralGenerator, la puissance changera */
+
+        /* Stade de dégradation 1, 13/64 */
+        if (etat < 0.2)
+        {
+            AkSoundEngine.PostEvent("Music_Degradation_0", parent);
+        }
+
+        /* Stade de dégradation 2, 26/64 */
+        else if (etat >= 0.2 && etat < 0.4)
+        {
+            AkSoundEngine.PostEvent("Music_Degradation_1", parent);
+        }
+
+        /* Stade de dégradation 3, 39/64 */
+        else if (etat >= 0.4 && etat < 0.6)
+        {
+            AkSoundEngine.PostEvent("Music_Degradation_2", parent);
+        }
+
+        /* Stade de dégradation 4, 52/64 */
+        else if (etat >= 0.6 && etat < 0.8)
+        {
+            AkSoundEngine.PostEvent("Music_Degradation_3", parent);
+        }
+
+        /* Stade de dégradation 5, 64/64 */
+        else if (etat >= 0.8 && etat <= 1)
+        {
+            AkSoundEngine.PostEvent("Music_Degradation_4", parent);
+        }
     }
 
     int ParcoursArbreAux(GameObject currentBranch, int degradation)
     {
         if (currentBranch.GetComponent<Branch>().scale < 0.8)
         {
-
-            return ParcoursArbreAux(childs, degradation + 1);
+            for (int i = 0; i < childs.Capacity; i++)
+            {
+                degradation = 1 + ParcoursArbreAux(childs[i], degradation);
+            }
         }
 
-        return ParcoursArbreAux(childs, degradation);
-    } */
+        for (int i = 0; i < childs.Capacity; i++)
+        {
+            degradation = ParcoursArbreAux(childs[i], degradation);
+        }
+
+        return degradation;
+    }
 }

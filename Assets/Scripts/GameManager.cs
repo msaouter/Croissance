@@ -5,7 +5,8 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public Camera cam;
-    int tours;
+    float tours;
+    public GameObject Sound;
 
     // Start is called before the first frame update
     void Start()
@@ -17,6 +18,9 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         if (Input.touchCount > 0) {
+            tours = 0;
+            AkSoundEngine.PostEvent("Music_Kill_Coral", Sound);
+
             Ray ray = cam.ScreenPointToRay(new Vector3(
                 Input.touches[0].position.x,
                 Input.touches[0].position.y,
@@ -32,14 +36,16 @@ public class GameManager : MonoBehaviour
 
         else
         {
-            tours += 1;
-            if (tours >= 540)
+            /*Debug.Log(tours);*/
+            tours += 1f * Time.deltaTime ;
+            if (tours >= 10)
             {
-                /*AkSoundEngine.PostEvent("Music_Contemplation",  /* Trouver un GameObject à remettre );*/
+                AkSoundEngine.PostEvent("Music_Contemplation", Sound);
             }
         }
 
         if (Input.GetButtonDown("Fire1")) {
+            tours = 0;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
             if (Physics.Raycast(ray, out hit, 100.0f)) {
