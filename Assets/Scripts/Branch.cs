@@ -57,16 +57,18 @@ public class Branch : MonoBehaviour
 
     public void RemoveBranch()
     {
-        for (int i = 0; i < childs.Count; i++) {
-            childs[i].GetComponent<Branch>().RemoveBranch();
+        if (parent != null) {
+            for (int i = 0; i < childs.Count; i++) {
+                childs[i].GetComponent<Branch>().RemoveBranch();
+            }
+
+            scale = 0f;
+
+            OnScaleChange();
+
+            /* Inté son */
+            AkSoundEngine.PostEvent("Music_Kill_Coral", parent);
         }
-
-        scale = 0f;
-
-        OnScaleChange();
-
-        /* Inté son */
-        AkSoundEngine.PostEvent("Music_Kill_Coral", parent);
     }
 
     private void Update()

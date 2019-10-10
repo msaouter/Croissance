@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 854431b37cc8c1d42bb975743358cbf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6568143118964092786
+    second: poissonJaune_sprite_0
+  - first:
+      213: 2490042025203163140
+    second: poissonJaune_sprite_1
+  - first:
+      213: 641424835722207048
+    second: poissonJaune_sprite_2
+  - first:
+      213: -4437959525482828698
+    second: poissonJaune_sprite_3
+  - first:
+      213: 3891104748640358517
+    second: poissonJaune_sprite_4
+  - first:
+      213: -4785779445441773710
+    second: poissonJaune_sprite_5
+  - first:
+      213: -1763971689837029329
+    second: poissonJaune_sprite_6
+  - first:
+      213: 6495692730756194989
+    second: poissonJaune_sprite_7
+  - first:
+      213: 6295640351714292811
+    second: poissonJaune_sprite_8
+  - first:
+      213: 8066348156659169271
+    second: poissonJaune_sprite_9
+  - first:
+      213: -1643044795822650763
+    second: poissonJaune_sprite_10
+  - first:
+      213: 7790129775244859353
+    second: poissonJaune_sprite_11
+  - first:
+      213: -8043593927866435210
+    second: poissonJaune_sprite_12
+  - first:
+      213: 5293589697008877228
+    second: poissonJaune_sprite_13
+  - first:
+      213: 6838446746456070543
+    second: poissonJaune_sprite_14
+  - first:
+      213: 1130244672235607948
+    second: poissonJaune_sprite_15
+  - first:
+      213: 1028006554183979917
+    second: poissonJaune_sprite_16
+  - first:
+      213: 7260579593654575710
+    second: poissonJaune_sprite_17
+  - first:
+      213: -8793043007906586474
+    second: poissonJaune_sprite_18
+  - first:
+      213: 1262093714627107436
+    second: poissonJaune_sprite_19
+  - first:
+      213: -9200166353075039696
+    second: poissonJaune_sprite_20
+  - first:
+      213: 2643016061373227440
+    second: poissonJaune_sprite_21
+  - first:
+      213: -2918931023200489010
+    second: poissonJaune_sprite_22
+  - first:
+      213: 5253554233176031645
+    second: poissonJaune_sprite_23
+  - first:
+      213: 8108272799357789791
+    second: poissonJaune_sprite_24
+  - first:
+      213: 7862980099069756655
+    second: poissonJaune_sprite_25
+  - first:
+      213: -707566508318316689
+    second: poissonJaune_sprite_26
+  - first:
+      213: -5599682721648003625
+    second: poissonJaune_sprite_27
+  - first:
+      213: 7316756241927011192
+    second: poissonJaune_sprite_28
+  - first:
+      213: -2455001998633983905
+    second: poissonJaune_sprite_29
+  - first:
+      213: 87915299374523498
+    second: poissonJaune_sprite_30
+  - first:
+      213: 5176984171870823911
+    second: poissonJaune_sprite_31
+  - first:
+      213: -8542719313565672277
+    second: poissonJaune_sprite_32
+  - first:
+      213: 4640091180843213463
+    second: poissonJaune_sprite_33
+  - first:
+      213: 2095114415801405165
+    second: poissonJaune_sprite_34
+  - first:
+      213: 772448415836783761
+    second: poissonJaune_sprite_35
+  - first:
+      213: -4505494645824368508
+    second: poissonJaune_sprite_36
+  - first:
+      213: 2689086089486266989
+    second: poissonJaune_sprite_37
+  - first:
+      213: 1397008750637429483
+    second: poissonJaune_sprite_38
+  - first:
+      213: -5129963169946050974
+    second: poissonJaune_sprite_39
+  - first:
+      213: 8726498139662703273
+    second: poissonJaune_sprite_40
+  - first:
+      213: -4322334081539769371
+    second: poissonJaune_sprite_41
+  - first:
+      213: -5573722669219861909
+    second: poissonJaune_sprite_42
+  - first:
+      213: -6119896529266623987
+    second: poissonJaune_sprite_43
+  - first:
+      213: -2943004298488979244
+    second: poissonJaune_sprite_44
+  - first:
+      213: -1099933958409216044
+    second: poissonJaune_sprite_45
+  - first:
+      213: -5967457798823317282
+    second: poissonJaune_sprite_46
+  - first:
+      213: 8361571549956630533
+    second: poissonJaune_sprite_47
+  - first:
+      213: -394570135402647540
+    second: poissonJaune_sprite_48
+  - first:
+      213: -4871447926457120614
+    second: poissonJaune_sprite_49
+  - first:
+      213: 7727127457060014426
+    second: poissonJaune_sprite_50
+  - first:
+      213: -3952605362448993994
+    second: poissonJaune_sprite_51
+  - first:
+      213: 2101304178841205351
+    second: poissonJaune_sprite_52
+  - first:
+      213: 3721005799595841328
+    second: poissonJaune_sprite_53
+  - first:
+      213: -1751449377227395002
+    second: poissonJaune_sprite_54
+  - first:
+      213: -8999127552265861812
+    second: poissonJaune_sprite_55
+  - first:
+      213: 6659841706239688106
+    second: poissonJaune_sprite_56
+  - first:
+      213: -6810486192294071053
+    second: poissonJaune_sprite_57
+  - first:
+      213: 1824036693633940863
+    second: poissonJaune_sprite_58
+  - first:
+      213: 7411840403358454160
+    second: poissonJaune_sprite_59
+  - first:
+      213: -1376305015993009081
+    second: poissonJaune_sprite_60
+  - first:
+      213: 2767263441468687862
+    second: poissonJaune_sprite_61
+  - first:
+      213: -629936766286000007
+    second: poissonJaune_sprite_62
+  - first:
+      213: -4495980630617442963
+    second: poissonJaune_sprite_63
+  - first:
+      213: 4103371100946854060
+    second: poissonJaune_sprite_64
+  - first:
+      213: -5149928064249571658
+    second: poissonJaune_sprite_65
+  - first:
+      213: 3604475320684830277
+    second: poissonJaune_sprite_66
+  - first:
+      213: 3384430809429376507
+    second: poissonJaune_sprite_67
+  - first:
+      213: -6563726497449296492
+    second: poissonJaune_sprite_68
+  - first:
+      213: 3261613928086776857
+    second: poissonJaune_sprite_69
+  - first:
+      213: 5633718914024657043
+    second: poissonJaune_sprite_70
+  - first:
+      213: -2722034836165018969
+    second: poissonJaune_sprite_71
+  - first:
+      213: 1798793122238531744
+    second: poissonJaune_sprite_72
+  - first:
+      213: 8104937728012364808
+    second: poissonJaune_sprite_73
+  - first:
+      213: 2192588075832922284
+    second: poissonJaune_sprite_74
+  - first:
+      213: 8128498261704527615
+    second: poissonJaune_sprite_75
+  - first:
+      213: 8273833873568761712
+    second: poissonJaune_sprite_76
+  - first:
+      213: 1413150579756949924
+    second: poissonJaune_sprite_77
+  - first:
+      213: -2943744770658490606
+    second: poissonJaune_sprite_78
+  - first:
+      213: -3711166389083934821
+    second: poissonJaune_sprite_79
+  - first:
+      213: -6412273876215748983
+    second: poissonJaune_sprite_80
+  - first:
+      213: 2170311935731324221
+    second: poissonJaune_sprite_81
+  - first:
+      213: -1140123108438436227
+    second: poissonJaune_sprite_82
+  - first:
+      213: 6330439582226783903
+    second: poissonJaune_sprite_83
+  - first:
+      213: -1498993400951474890
+    second: poissonJaune_sprite_84
+  - first:
+      213: 5225664329466962403
+    second: poissonJaune_sprite_85
+  - first:
+      213: 748998208855736684
+    second: poissonJaune_sprite_86
+  - first:
+      213: -8317411029683962154
+    second: poissonJaune_sprite_87
+  - first:
+      213: -213524637606983365
+    second: poissonJaune_sprite_88
+  - first:
+      213: 7639945316883781932
+    second: poissonJaune_sprite_89
+  - first:
+      213: 5695993053085168202
+    second: poissonJaune_sprite_90
+  - first:
+      213: 5751454981956651003
+    second: poissonJaune_sprite_91
+  - first:
+      213: -6348490908111833938
+    second: poissonJaune_sprite_92
+  - first:
+      213: -2642947465342577270
+    second: poissonJaune_sprite_93
+  - first:
+      213: 7006918351552537358
+    second: poissonJaune_sprite_94
+  - first:
+      213: 1503957137912332351
+    second: poissonJaune_sprite_95
+  - first:
+      213: -7996796652150686199
+    second: poissonJaune_sprite_96
+  - first:
+      213: -8964118929276251491
+    second: poissonJaune_sprite_97
+  - first:
+      213: 7960483905592428223
+    second: poissonJaune_sprite_98
+  - first:
+      213: -8001971218532339689
+    second: poissonJaune_sprite_99
+  - first:
+      213: -132311676168163834
+    second: poissonJaune_sprite_100
+  - first:
+      213: 6627455214654265186
+    second: poissonJaune_sprite_101
+  - first:
+      213: -5830442720175008354
+    second: poissonJaune_sprite_102
+  - first:
+      213: 731231234073684306
+    second: poissonJaune_sprite_103
+  - first:
+      213: -7410274406984387031
+    second: poissonJaune_sprite_104
+  - first:
+      213: -357486205286763874
+    second: poissonJaune_sprite_105
+  - first:
+      213: -1122388392937329051
+    second: poissonJaune_sprite_106
+  - first:
+      213: 5676726782445184706
+    second: poissonJaune_sprite_107
+  - first:
+      213: -5866642634501644344
+    second: poissonJaune_sprite_108
+  - first:
+      213: 3848975846104457295
+    second: poissonJaune_sprite_109
+  - first:
+      213: 2883243616413140762
+    second: poissonJaune_sprite_110
+  - first:
+      213: -2578541354361778978
+    second: poissonJaune_sprite_111
+  - first:
+      213: 7778155259660819269
+    second: poissonJaune_sprite_112
+  - first:
+      213: 7443401513327775517
+    second: poissonJaune_sprite_113
+  - first:
+      213: 5890658395844100443
+    second: poissonJaune_sprite_114
+  - first:
+      213: 8113849616781841261
+    second: poissonJaune_sprite_115
+  - first:
+      213: 3536993880528441497
+    second: poissonJaune_sprite_116
+  - first:
+      213: -4191237307278200659
+    second: poissonJaune_sprite_117
+  - first:
+      213: -2973486174439083190
+    second: poissonJaune_sprite_118
+  - first:
+      213: 1250247490405077515
+    second: poissonJaune_sprite_119
+  - first:
+      213: -998714447683739084
+    second: poissonJaune_sprite_120
+  - first:
+      213: 5266742364172064289
+    second: poissonJaune_sprite_121
+  - first:
+      213: 8432495404852755128
+    second: poissonJaune_sprite_122
+  - first:
+      213: 8534990570270980436
+    second: poissonJaune_sprite_123
+  - first:
+      213: 3440763101860828038
+    second: poissonJaune_sprite_124
+  - first:
+      213: -1274989225197850844
+    second: poissonJaune_sprite_125
+  - first:
+      213: 7379446014289031681
+    second: poissonJaune_sprite_126
+  - first:
+      213: -8949320967686610848
+    second: poissonJaune_sprite_127
+  - first:
+      213: -1043819216457584794
+    second: poissonJaune_sprite_128
+  - first:
+      213: -5746839329514086383
+    second: poissonJaune_sprite_129
+  - first:
+      213: -2196238956199349251
+    second: poissonJaune_sprite_130
+  - first:
+      213: 7946941968916588294
+    second: poissonJaune_sprite_131
+  - first:
+      213: 8151747445825061348
+    second: poissonJaune_sprite_132
+  - first:
+      213: -4929683340463511519
+    second: poissonJaune_sprite_133
+  - first:
+      213: 371068275164263158
+    second: poissonJaune_sprite_134
+  - first:
+      213: -7511133244783784741
+    second: poissonJaune_sprite_135
+  - first:
+      213: 1002809252430858811
+    second: poissonJaune_sprite_136
+  - first:
+      213: -4166834378003387941
+    second: poissonJaune_sprite_137
+  - first:
+      213: -8180100359605058192
+    second: poissonJaune_sprite_138
+  - first:
+      213: 210801606316074218
+    second: poissonJaune_sprite_139
+  - first:
+      213: 4037095338793632150
+    second: poissonJaune_sprite_140
+  - first:
+      213: 5791139382723842443
+    second: poissonJaune_sprite_141
+  - first:
+      213: 1183792333761560958
+    second: poissonJaune_sprite_142
+  - first:
+      213: 5661140948640806468
+    second: poissonJaune_sprite_143
+  - first:
+      213: 8136272133285432620
+    second: poissonJaune_sprite_144
+  - first:
+      213: 8543744234683832891
+    second: poissonJaune_sprite_145
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poissonJaune_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dfea8d4b3584f499dd39efd5c39890
+      internalID: 6568143118964092786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538cded0c0eeed041bc58481047b21ef
+      internalID: 2490042025203163140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e2494c0f1c3b249b5b653bdceff1e7
+      internalID: 641424835722207048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a91004c8882148902ddae63422ded
+      internalID: -4437959525482828698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406cea44bd558eb4c948a67f63e6bcb1
+      internalID: 3891104748640358517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e1a5fadf82584797bac9887f2668b
+      internalID: -4785779445441773710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf735a4ea184b842803044626903699
+      internalID: -1763971689837029329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1331600274309fa4fbc1e19b501abe06
+      internalID: 6495692730756194989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769acbe20286c914f835c65a211bc37a
+      internalID: 6295640351714292811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70d434d5c16dd14c9619776dfc32d36
+      internalID: 8066348156659169271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c4e32673d07e4691c66669ac516ee
+      internalID: -1643044795822650763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd26161525bf874d8a6761ffbe4020c
+      internalID: 7790129775244859353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d22be7d1af6df4e856055f3c49004f
+      internalID: -8043593927866435210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da61b1fd381e9924d9461eaec9f1b8a4
+      internalID: 5293589697008877228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe03fadf62a7f438f128a3f0df1462
+      internalID: 6838446746456070543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbbdb6d76334fd4281fb1cc0b9386d9
+      internalID: 1130244672235607948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe8effc3a37784390bfcc504f7234b
+      internalID: 1028006554183979917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b75068ec0eaa45bd82f00baff3a19
+      internalID: 7260579593654575710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494b0e002f2a7d346b43e72eb08d0e77
+      internalID: -8793043007906586474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bf758d0afa80946908ca0d2545d245
+      internalID: 1262093714627107436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf649d6f3b336d24eb7cf2f52980005f
+      internalID: -9200166353075039696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914c2f2c441d5e4794731a779c9dd2b
+      internalID: 2643016061373227440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f02f09a7860847bf6b82db87fe24e
+      internalID: -2918931023200489010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc78b9997e6c6a7499e5625f47a42a82
+      internalID: 5253554233176031645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c914f34204c22014688597816e8c89d8
+      internalID: 8108272799357789791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc3e68a8ae6bf54f8d6979ee73f7a1b
+      internalID: 7862980099069756655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f39dd1504f364ca8d17afdc217b51
+      internalID: -707566508318316689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a479affb46524caa26c0e5653d4d4
+      internalID: -5599682721648003625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e3e328b6a729459c7cadf6d166cbc
+      internalID: 7316756241927011192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143558f37d50324f894a43bfa63bd6f
+      internalID: -2455001998633983905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a9c878d3edb174c96158e7a676482e
+      internalID: 87915299374523498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298b7a58f21afac4e9bd35d8095cf5e9
+      internalID: 5176984171870823911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624aa55433ed40b4887cc91b4e08d05d
+      internalID: -8542719313565672277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35793d6e5d1add64181c76539af7e046
+      internalID: 4640091180843213463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c665591dba0171645b7320efd33d8f3e
+      internalID: 2095114415801405165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408b6a6a4cc828047b8fe207ebf9fff0
+      internalID: 772448415836783761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba5f3b1ee2203459803374646812a5
+      internalID: -4505494645824368508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752d5cf3f899ee144b99e773f4677b0d
+      internalID: 2689086089486266989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28308c0d4c830614ca98a393e622427e
+      internalID: 1397008750637429483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f6a2d8885ccbb4c870903e5f91b3cc
+      internalID: -5129963169946050974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3838a869e904c46ba9bc565d68376e
+      internalID: 8726498139662703273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5cec97b1024e4aa0bcab059dad931
+      internalID: -4322334081539769371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e598d40ac4a6994599be199ae5f8773
+      internalID: -5573722669219861909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f71a94b73a0dee4eb5eb6f3b0a698d9
+      internalID: -6119896529266623987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37dc9226a07b46498b199e06e3e931d
+      internalID: -2943004298488979244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d190def384c39234e92899d31f1bac18
+      internalID: -1099933958409216044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e44175d84200346ba8ac27ba9d3f4e
+      internalID: -5967457798823317282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca71a105fe3c8d0439cabb89021f28ca
+      internalID: 8361571549956630533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e664ef5fd4fc641878b568e73d581a
+      internalID: -394570135402647540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e78c5e4bbb88947a1ef735ca877f3f
+      internalID: -4871447926457120614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonJaune_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf68641eda41bc641817b6d7d5c8f301
+      internalID: 7727127457060014426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: 8534c45d7af35b64aab0437a042582f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6750741608567159255
+    second: poissonBleu_sprite_0
+  - first:
+      213: 6304733662131015350
+    second: poissonBleu_sprite_1
+  - first:
+      213: 8910987679031375354
+    second: poissonBleu_sprite_2
+  - first:
+      213: 7812122028932793994
+    second: poissonBleu_sprite_3
+  - first:
+      213: 3748364202631615118
+    second: poissonBleu_sprite_4
+  - first:
+      213: -6175469640043178502
+    second: poissonBleu_sprite_5
+  - first:
+      213: -5176070220075958399
+    second: poissonBleu_sprite_6
+  - first:
+      213: -8660752472470414095
+    second: poissonBleu_sprite_7
+  - first:
+      213: -2519960041500809838
+    second: poissonBleu_sprite_8
+  - first:
+      213: -4705121428411918040
+    second: poissonBleu_sprite_9
+  - first:
+      213: -979035834446836681
+    second: poissonBleu_sprite_10
+  - first:
+      213: 8763281149456492295
+    second: poissonBleu_sprite_11
+  - first:
+      213: -2397118873875676937
+    second: poissonBleu_sprite_12
+  - first:
+      213: 3820676457696961975
+    second: poissonBleu_sprite_13
+  - first:
+      213: 8264793215655618748
+    second: poissonBleu_sprite_14
+  - first:
+      213: -6352188061423223492
+    second: poissonBleu_sprite_15
+  - first:
+      213: -6196775353734284911
+    second: poissonBleu_sprite_16
+  - first:
+      213: 772110962179205523
+    second: poissonBleu_sprite_17
+  - first:
+      213: -7781054729200469726
+    second: poissonBleu_sprite_18
+  - first:
+      213: 8285179168265295257
+    second: poissonBleu_sprite_19
+  - first:
+      213: -2589830634045285593
+    second: poissonBleu_sprite_20
+  - first:
+      213: 4941848738762242597
+    second: poissonBleu_sprite_21
+  - first:
+      213: 1445625745957285046
+    second: poissonBleu_sprite_22
+  - first:
+      213: -2615391107704496451
+    second: poissonBleu_sprite_23
+  - first:
+      213: -7054343596848492319
+    second: poissonBleu_sprite_24
+  - first:
+      213: 887771657489220697
+    second: poissonBleu_sprite_25
+  - first:
+      213: -2926858753417866340
+    second: poissonBleu_sprite_26
+  - first:
+      213: -706932739215628989
+    second: poissonBleu_sprite_27
+  - first:
+      213: -7601493672599831732
+    second: poissonBleu_sprite_28
+  - first:
+      213: 3023151742558942765
+    second: poissonBleu_sprite_29
+  - first:
+      213: 5410576058599075112
+    second: poissonBleu_sprite_30
+  - first:
+      213: 7673051251131142243
+    second: poissonBleu_sprite_31
+  - first:
+      213: 7540298274976789226
+    second: poissonBleu_sprite_32
+  - first:
+      213: -1569150753443104808
+    second: poissonBleu_sprite_33
+  - first:
+      213: 5831396042077378557
+    second: poissonBleu_sprite_34
+  - first:
+      213: 3035508213244296762
+    second: poissonBleu_sprite_35
+  - first:
+      213: 8581887942725369358
+    second: poissonBleu_sprite_36
+  - first:
+      213: 9014136147089624190
+    second: poissonBleu_sprite_37
+  - first:
+      213: -2088914279588015877
+    second: poissonBleu_sprite_38
+  - first:
+      213: 4343206144087319315
+    second: poissonBleu_sprite_39
+  - first:
+      213: -2725967107600765680
+    second: poissonBleu_sprite_40
+  - first:
+      213: 8483318018804314791
+    second: poissonBleu_sprite_41
+  - first:
+      213: 2470834177825440237
+    second: poissonBleu_sprite_42
+  - first:
+      213: 6540294720777630637
+    second: poissonBleu_sprite_43
+  - first:
+      213: 4941034195696016259
+    second: poissonBleu_sprite_44
+  - first:
+      213: 3255249746982317395
+    second: poissonBleu_sprite_45
+  - first:
+      213: 2709564736319466573
+    second: poissonBleu_sprite_46
+  - first:
+      213: 6094140257647999892
+    second: poissonBleu_sprite_47
+  - first:
+      213: 2318979596126517000
+    second: poissonBleu_sprite_48
+  - first:
+      213: -6842967080080796959
+    second: poissonBleu_sprite_49
+  - first:
+      213: 4860109636864682654
+    second: poissonBleu_sprite_50
+  - first:
+      213: -5271248074038295290
+    second: poissonBleu_sprite_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poissonBleu_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1792
+        width: 415
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f7c0f210d9e314684d9ed8ba9fd339
+      internalID: 6750741608567159255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1792
+        width: 416
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c40cde297ee27419bc85d9adfec29f
+      internalID: 6304733662131015350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1792
+        width: 416
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfb5f603447ca24d8e27e5acd8243ba
+      internalID: 8910987679031375354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1792
+        width: 418
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d654dd529d26946bc09e57b4ac3d3a
+      internalID: 7812122028932793994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1792
+        width: 418
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48a2e3a3cd428244b202442ef7eb742
+      internalID: 3748364202631615118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1792
+        width: 419
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a471b27a4e348d4c9ce6762de0548b0
+      internalID: -6175469640043178502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 1792
+        width: 420
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa7d6d748cacb249b0bb2dcd6e1241a
+      internalID: -5176070220075958399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 1792
+        width: 420
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94af1c9598d7434d97caab3dde2b8b3
+      internalID: -8660752472470414095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1511
+        width: 421
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa8de5f5d7f5a243b85c0c34b32fcfc
+      internalID: -2519960041500809838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1511
+        width: 421
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64d75a20e12ddc45b7fc785d9435245
+      internalID: -4705121428411918040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1511
+        width: 423
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f34a97c77b8bb4438b2228bc879b30d
+      internalID: -979035834446836681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1511
+        width: 423
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f4397ae9944b418bdd7c5e6cec7ac
+      internalID: 8763281149456492295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1511
+        width: 424
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa148510360d9943b6b66bf11caa8c6
+      internalID: -2397118873875676937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1511
+        width: 424
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d580638f3fef494283e2344cea802f0
+      internalID: 3820676457696961975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1511
+        width: 426
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46415408b2647684398d3611670fb013
+      internalID: 8264793215655618748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 1511
+        width: 426
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d6d64a7f25afc4d820ed24b593f8c0
+      internalID: -6352188061423223492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1230
+        width: 427
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a46d53b4cbcaa478f1f4a062153123
+      internalID: -6196775353734284911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1230
+        width: 427
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db26214986249744b49cc87732d2c25
+      internalID: 772110962179205523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1230
+        width: 429
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ff71fa8c6c744cb33e160c6b7559f
+      internalID: -7781054729200469726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1230
+        width: 429
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee943519138eabd40a181ee87bc0dc9b
+      internalID: 8285179168265295257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1230
+        width: 430
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c265d289c9d5e6b4e8caded50a6b44ff
+      internalID: -2589830634045285593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1230
+        width: 430
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b46a3b4f64dd43b5712dc2506e810
+      internalID: 4941848738762242597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1230
+        width: 431
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb60481fe8554418b731be6ded9d80
+      internalID: 1445625745957285046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 1230
+        width: 430
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc94a84c1c6bdf49a66b63b183ef60f
+      internalID: -2615391107704496451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 948
+        width: 429
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12db24fcfe21524798ebfc6236f5c79
+      internalID: -7054343596848492319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 948
+        width: 428
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9398e3357937b6846949019b46af4d41
+      internalID: 887771657489220697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 948
+        width: 428
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a6162a3e389e4e9ef8e865b748f20
+      internalID: -2926858753417866340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 949
+        width: 427
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e13d1509e2303479a9ad807faec6c3
+      internalID: -706932739215628989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 949
+        width: 426
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b3272fc4a9e134d9618b9d133fb421
+      internalID: -7601493672599831732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 949
+        width: 426
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf010abc2f0b654094b9b2df1bd843f
+      internalID: 3023151742558942765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 949
+        width: 425
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be468d69ac98d4478a07143b38d01a4
+      internalID: 5410576058599075112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 949
+        width: 425
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa22709bec8113d46b1119a61c8e0c35
+      internalID: 7673051251131142243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 667
+        width: 425
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a734ebcb4203bc448b4ab07ae6eb0acc
+      internalID: 7540298274976789226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 667
+        width: 423
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80035052bd3473e4786bbdf2d88c272a
+      internalID: -1569150753443104808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 667
+        width: 423
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dadd04d0a8a4884e8ea18a3371df689
+      internalID: 5831396042077378557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 667
+        width: 422
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd622000a1fd8fc449c7d23419629e55
+      internalID: 3035508213244296762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 667
+        width: 422
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b46122d98d504b8124f11ea9bd48b
+      internalID: 8581887942725369358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 668
+        width: 421
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd99a72e4a09efe4bbc5765050f89907
+      internalID: 9014136147089624190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 667
+        width: 421
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525caacf7041ac848b5b1ff91be3cea1
+      internalID: -2088914279588015877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 667
+        width: 420
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1070d606f14bbae419fced83dc3cff96
+      internalID: 4343206144087319315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 387
+        width: 419
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3293dc4b674436048b7b8e14d3b7e81b
+      internalID: -2725967107600765680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 387
+        width: 419
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb29544cdff7994ebc1f61f48c00622
+      internalID: 8483318018804314791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 387
+        width: 419
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c1b6932fbc94549b44688d2c4e0e04
+      internalID: 2470834177825440237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 387
+        width: 418
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3d4e4ba71eed04ab7277ea8ecff56b
+      internalID: 6540294720777630637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 387
+        width: 418
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72433306eef594289c8c528b189960
+      internalID: 4941034195696016259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 387
+        width: 416
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc740a2aa3f64f747bc7b61c1a0ee5d5
+      internalID: 3255249746982317395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 387
+        width: 416
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe9dd074cc3f574d9accf13597f31de
+      internalID: 2709564736319466573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 387
+        width: 416
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a4f007515b2c94baefb4240435ae7e
+      internalID: 6094140257647999892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 106
+        width: 415
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9f8ebf693f4bc4b8d4e9c5ec1ef70c
+      internalID: 2318979596126517000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 106
+        width: 415
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65089b6c0a6dcd4469088d60a6b06861
+      internalID: -6842967080080796959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 106
+        width: 415
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfd4976c74868c4090f2aba0024b82d
+      internalID: 4860109636864682654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poissonBleu_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 106
+        width: 415
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6151929a6c4d8149b6075181bd1900c
+      internalID: -5271248074038295290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
