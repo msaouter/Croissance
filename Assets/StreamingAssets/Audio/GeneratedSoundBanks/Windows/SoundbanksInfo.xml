@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\ELE5d5ab19ee5329\Documents\GitHub\Croissance-Sound\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="43893638" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_C_Pad_Metallic.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_C_Pad_Metallic_C42B8C3C.wem</Path>
+		</File>
+		<File Id="127708902" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_C_Mallet_Flux.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_C_Mallet_Flux_C42B8C3C.wem</Path>
+		</File>
+		<File Id="171089575" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_A_Water_Pad.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_A_Water_Pad_C42B8C3C.wem</Path>
+		</File>
+		<File Id="225181845" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_B_Pad_Metallic.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_B_Pad_Metallic_C42B8C3C.wem</Path>
+		</File>
+		<File Id="254715500" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_D_Sonosphere.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_D_Sonosphere_C42B8C3C.wem</Path>
+		</File>
+		<File Id="358762917" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_C_Water_Pad.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_C_Water_Pad_C42B8C3C.wem</Path>
+		</File>
+		<File Id="421481085" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_C.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_C_C42B8C3C.wem</Path>
+		</File>
+		<File Id="473964546" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_C_Sonosphere.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_C_Sonosphere_C42B8C3C.wem</Path>
+		</File>
+		<File Id="659450201" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_A.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_A_C42B8C3C.wem</Path>
+		</File>
+		<File Id="661062577" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_A_Sonosphère.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_A_Sonosphère_C42B8C3C.wem</Path>
+		</File>
+		<File Id="825850638" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_B.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_B_C42B8C3C.wem</Path>
+		</File>
+		<File Id="827508458" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_D_Mallet_Flux.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_D_Mallet_Flux_C42B8C3C.wem</Path>
+		</File>
+		<File Id="841238621" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_B_Water_Pad.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_B_Water_Pad_C42B8C3C.wem</Path>
+		</File>
+		<File Id="874713701" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_A_Mallet_Flux.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_A_Mallet_Flux_C42B8C3C.wem</Path>
+		</File>
+		<File Id="896771487" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_B_Sonosphere.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_B_Sonosphere_C42B8C3C.wem</Path>
+		</File>
+		<File Id="938987705" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_A_Pad_Metallic.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_A_Pad_Metallic_C42B8C3C.wem</Path>
+		</File>
+		<File Id="950671692" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_B_Mallet_Flux.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_B_Mallet_Flux_C42B8C3C.wem</Path>
+		</File>
+		<File Id="987465526" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_D_Water_Pad.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_D_Water_Pad_C42B8C3C.wem</Path>
+		</File>
+		<File Id="1047806511" Language="SFX">
+			<ShortName>Music_Croissance_Kill_Coral_D_Pad_Metallic.wav</ShortName>
+			<Path>SFX\Music_Croissance_Kill_Coral_D_Pad_Metallic_C42B8C3C.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2770033377" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\CROISSANCE</ObjectPath>
+			<ShortName>CROISSANCE</ShortName>
+			<Path>CROISSANCE.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2990463502" Name="Music_Contemplation" ObjectPath="\Events\Terry\Music_Contemplation" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1507659042" Name="Music_Degradation_0" ObjectPath="\Events\Terry\Music_Degradation_0" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1507659043" Name="Music_Degradation_1" ObjectPath="\Events\Terry\Music_Degradation_1" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1507659040" Name="Music_Degradation_2" ObjectPath="\Events\Terry\Music_Degradation_2" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1507659041" Name="Music_Degradation_3" ObjectPath="\Events\Terry\Music_Degradation_3" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1507659046" Name="Music_Degradation_4" ObjectPath="\Events\Terry\Music_Degradation_4" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="41896295" Name="Music_Kill_Coral" ObjectPath="\Events\Terry\Music_Kill_Coral" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3725903807" Name="Music_Start" ObjectPath="\Events\Terry\Music_Start" DurationType="Infinite"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="43893638"/>
+				<File Id="127708902"/>
+				<File Id="171089575"/>
+				<File Id="225181845"/>
+				<File Id="254715500"/>
+				<File Id="358762917"/>
+				<File Id="421481085"/>
+				<File Id="473964546"/>
+				<File Id="659450201"/>
+				<File Id="661062577"/>
+				<File Id="825850638"/>
+				<File Id="827508458"/>
+				<File Id="841238621"/>
+				<File Id="874713701"/>
+				<File Id="896771487"/>
+				<File Id="938987705"/>
+				<File Id="950671692"/>
+				<File Id="987465526"/>
+				<File Id="1047806511"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="179818253" Language="SFX">
+					<ShortName>Music_Croissance_Kill_Coral_C_Pan.wav</ShortName>
+					<Path>SFX\Music_Croissance_Kill_Coral_C_Pan_C42B8C3C.wem</Path>
+				</File>
+				<File Id="592671692" Language="SFX">
+					<ShortName>Music_Croissance_Kill_Coral_B_Pan.wav</ShortName>
+					<Path>SFX\Music_Croissance_Kill_Coral_B_Pan_C42B8C3C.wem</Path>
+				</File>
+				<File Id="738575729" Language="SFX">
+					<ShortName>Music_Croissance_Kill_Coral_D_Pan.wav</ShortName>
+					<Path>SFX\Music_Croissance_Kill_Coral_D_Pan_C42B8C3C.wem</Path>
+				</File>
+				<File Id="924608942" Language="SFX">
+					<ShortName>MACK Effect Reverse Cymbal.wav</ShortName>
+					<Path>SFX\MACK Effect Reverse Cymbal_C42B8C3C.wem</Path>
+				</File>
+				<File Id="1023224694" Language="SFX">
+					<ShortName>Music_Croissance_Kill_Coral_A_Pan.wav</ShortName>
+					<Path>SFX\Music_Croissance_Kill_Coral_A_Pan_C42B8C3C.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
