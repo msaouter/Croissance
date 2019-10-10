@@ -17,21 +17,32 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: 0f64c9223873214ca708c104293d2f38
     GuidInternal: 
-    m_lastTime: -8586308987554345315
+    m_lastTime: -8586308934556934937
     List: []
   AuxBusWwu:
   - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: 183922adf3784e43b179d4b1df801cc5
     GuidInternal: 
-    m_lastTime: -8586308987581535689
-    List: []
+    m_lastTime: -8586308934586178167
+    List:
+    - name: Ocean_Verb
+      guid: a68f286c6f10fa4abac624920ccee7cc
+      id: 3878715091
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Ocean_Verb
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\Ocean_Verb
   BankWwu:
   - PhysicalPath: SoundBanks\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: 867c499383e2984d940ae326a5a57cea
     GuidInternal: 
-    m_lastTime: -8586308987554345315
+    m_lastTime: -8586308934556990079
     List:
     - name: CROISSANCE
       guid: ac159283408acb4c8a0f1363f4ffa629
@@ -47,13 +58,13 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: c0754284016cf84bbb47972cfc7021fb
     GuidInternal: 
-    m_lastTime: -8586308987587317529
+    m_lastTime: -8586308934592429784
     List: []
   - PhysicalPath: Events\Terry.wwu
     ParentPhysicalPath: 
     guid: 37e6c695626bb94c92e02d8a5a13ab82
     GuidInternal: 
-    m_lastTime: -8586308987587317529
+    m_lastTime: -8586308934592419749
     List:
     - name: Music_Contemplation
       guid: a93a6a33e14ad84ca4b8f1dc443ce197
@@ -167,14 +178,14 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: 3185db87779eca408057210276fa872c
     GuidInternal: 
-    m_lastTime: -8586308987587317529
+    m_lastTime: -8586308934592414745
     List: []
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: 37ffc490ddacef4bb61a9684d151b3f3
     GuidInternal: 
-    m_lastTime: -8586308987587317529
+    m_lastTime: -8586308934592404721
     List:
     - name: RTPC_SideChain
       guid: 2eeff9aa56d79c4e8d302d982c1a8ec4
@@ -190,7 +201,7 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: cea291b4cb5a09468918fb9210b4d19f
     GuidInternal: 
-    m_lastTime: -8586308987554345315
+    m_lastTime: -8586308934556970033
     List:
     - name: Music_Degradation
       guid: 2999ceff834ce94cbcd52b5945f68f54
@@ -283,14 +294,14 @@ MonoBehaviour:
     ParentPhysicalPath: 
     guid: fee79f8ac647794ea73ce582c7c29cc8
     GuidInternal: 
-    m_lastTime: -8586308987554345315
+    m_lastTime: -8586308934556954987
     List: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
     ParentPhysicalPath: 
     guid: c5b68eaeb370c845b762b93b5e811851
     GuidInternal: 
-    m_lastTime: -8586308987554345315
+    m_lastTime: -8586308934556944962
     List: []
   ExpandedItems:
   - /Croissance_WwiseProject

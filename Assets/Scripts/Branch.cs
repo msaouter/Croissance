@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class Branch : MonoBehaviour
 {
+    public static float globalDegradation = 0f;
+    public static float maxGlobalDegradation;
+
     SpriteRenderer spriteBranch;
     List<GameObject> childs = new List<GameObject>();
-    GameObject parent;
+    public GameObject parent;
 
     public List<Vector2> SpawnPoint;
     public Vector2 rootPoint;
@@ -28,6 +31,7 @@ public class Branch : MonoBehaviour
     void Start()
     {
         scale = 1f;
+        globalDegradation += 1f;
 
         defaultHeight = transform.localScale.y;
         defaultWidth = transform.localScale.x;
@@ -62,12 +66,11 @@ public class Branch : MonoBehaviour
                 childs[i].GetComponent<Branch>().RemoveBranch();
             }
 
+            globalDegradation -= scale;
             scale = 0f;
 
-            OnScaleChange();
 
-            /* Inté son */
-            AkSoundEngine.PostEvent("Music_Kill_Coral", parent);
+            OnScaleChange();
         }
     }
 
@@ -76,8 +79,11 @@ public class Branch : MonoBehaviour
         //Scale
         if (parent != null) {
             if (parent.GetComponent<Branch>().scale >= 1f && scale < 1f) {
-                scale = scale + (0.5f * Time.deltaTime);
-                if (scale > 1f) scale = 1f;
+                scale = scale + (0.01f * Time.deltaTime);
+                if (scale >= 1f) {
+                    globalDegradation += 1f;
+                    scale = 1f;
+                }
                 OnScaleChange();
             }
         }

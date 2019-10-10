@@ -10,6 +10,7 @@ public class CoralGenerator : MonoBehaviour
     public List<GameObject> coralYPrefabs;
 
     int height;
+    float maxDegradation = 0f;
 
     // Start is called before the first frame update
     void Start()
@@ -27,6 +28,7 @@ public class CoralGenerator : MonoBehaviour
     void Generate()
     {
         GenerateChilds(coralRoot, height, 0, 0);
+        Branch.maxGlobalDegradation = maxDegradation;
     }
 
     void GenerateChilds(GameObject currentCoral, int currentHeight, int angleCoefficient, int zIndex)
@@ -55,6 +57,7 @@ public class CoralGenerator : MonoBehaviour
                 30
             );
 
+            maxDegradation += 1f;
 
             child.GetComponent<Branch>().defaultLocalPosition = child.transform.localPosition;
         }
@@ -106,6 +109,8 @@ public class CoralGenerator : MonoBehaviour
             childY.GetComponent<Branch>().defaultLocalPosition = childY.transform.localPosition;
             childA.GetComponent<Branch>().defaultLocalPosition = childA.transform.localPosition;
             childB.GetComponent<Branch>().defaultLocalPosition = childB.transform.localPosition;
+
+            maxDegradation += 3f;
 
             GenerateChilds(childA, currentHeight - 1, 1, zIndex - 1);
             GenerateChilds(childB, currentHeight - 1, -1, zIndex + 1);
